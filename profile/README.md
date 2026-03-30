@@ -1,4 +1,4 @@
-## Olá, I'm Luiz Fernando (Quirino) 👋
+## Olá, eu sou o Quirino! 👋
 
 Sou entusiasta da tecnologia, mestrando em Ciência da Computação na **UFMS/FACOM** e um defensor apaixonado pelo compartilhamento de conhecimento. Acredito que a tecnologia só atinge seu potencial pleno quando é democratizada e ensinada com clareza.
 
