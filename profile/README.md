@@ -21,14 +21,7 @@ Minha trajetória é movida pela troca de experiências e pelo ensino. Atualment
 
 ### 📊 GitHub Stats
 
-![Estatísticas de Luiz](https://github-readme-stats.vercel.app/api?username=luizfpq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=luizfpq&layout=compact&theme=dracula&hide_langs=html,css)
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=luizfpq&theme=dracula)](https://git.io/streak-stats)
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luizfpq&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luizfpq&layout=compact&theme=dracula" />
-</div>
+![Estatísticas de Luiz](https://github-readme-stats.vercel.app/api?username=luizfpq&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 -----
 
