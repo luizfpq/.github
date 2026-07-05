@@ -1,10 +1,10 @@
 ## Olá, eu sou o Quirino! 👋
 
-Sou entusiasta da tecnologia, mestrando em Ciência da Computação na **UFMS/FACOM** e um defensor apaixonado pelo compartilhamento de conhecimento. Acredito que a tecnologia só atinge seu potencial pleno quando é democratizada e ensinada com clareza.
+Sou entusiasta da tecnologia, mestrando em Ciência da Computação na **UFMS/FACOM** e um defensor apaixonado do compartilhamento de conhecimento. Acredito que a tecnologia só atinge seu potencial pleno quando é democratizada e ensinada com clareza.
 
 ### 💡 Compartilhando Conhecimento
 
-Minha trajetória é movida pela troca de experiências e pelo ensino. Atualmente, dedico parte da minha energia ao programa **Hackers do Bem**, onde contribuo para a formação de novos talentos em Cibersegurança. Para mim, codar e configurar servidores é apenas metade do trabalho; a outra metade é documentar, ensinar e inspirar outros a explorarem o universo da computação.
+Minha trajetória é movida pela troca de experiências e pelo ensino. Codificar e configurar servidores é apenas metade do trabalho; a outra metade é documentar, ensinar e inspirar outros a explorarem o universo da computação.
 
 ### 🛠️ Tecnologias e Interesses
 
@@ -18,10 +18,6 @@ Minha trajetória é movida pela troca de experiências e pelo ensino. Atualment
   * **IA Aplicada:** Desenvolvimento de soluções que utilizam modelos de linguagem para automação de documentos e análise técnica.
   * **Infraestrutura como Código:** Gestão e monitoramento de serviços auto-hospedados em ambiente Debian.
   * **Educação em Cibersegurança:** Docência focada em hash functions, criptografia e fundamentos de defesa digital.
-
-### 📊 GitHub Stats
-
-![Estatísticas de Luiz](https://github-readme-stats.vercel.app/api?username=luizfpq&show_icons=true&theme=default&include_all_commits=true&count_private=true)
 
 -----
 
