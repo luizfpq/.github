@@ -1,6 +1,6 @@
 # Olá, eu sou o Quirino
 
-Trabalho com tecnologia da informação desde 2005. Hoje coordeno as contratações estratégicas de TI no IFSP, onde também dou aula como professor substituto, e sou docente no programa Hackers do Bem. Faço mestrado em Ciência da Computação na UFMS, na área de inteligência artificial.
+Trabalho com tecnologia da informação desde 2005. Hoje coordeno as contratações estratégicas de TI no IFSP e sou docente no programa Hackers do Bem. Faço mestrado em Ciência da Computação na UFMS, na área de inteligência artificial.
 
 Tenho formação em Sistemas de Informação, Gestão da Tecnologia da Informação e Educação Especial, além de especialização em Gestão de Riscos e Cibersegurança. Junto com a formação, sempre aprendi muito testando coisas por conta própria, e continuo aprendendo. Minhas ferramentas vêm desse lado mais prático: não muito sofisticadas, mas funcionais. A maioria dos repositórios daqui começou com uma tarefa que eu repetia demais, uma configuração que eu não queria refazer na mão ou um material de aula que podia servir para outras turmas. Muita coisa nasce no meu homelab, um cluster Proxmox/Debian onde testo redes, containers e serviços auto-hospedados.
 
