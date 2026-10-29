@@ -8,4 +8,4 @@ Não tenho apego a linguagens ou stacks, justamente por causa dessa busca por ap
 
 Meu primeiro repositório público aqui é de 2016, um destaque de sintaxe de Portugol para o gEdit. Muita coisa mudou de lá para cá, mas continuo fazendo a mesma coisa: ferramentas para resolver problemas pequenos. Se encontrar um erro ou tiver uma sugestão, abra uma issue. Melhorias são sempre bem-vindas.
 
-Longe do teclado, gosto de poesia, cinema e motocicletas. Mais sobre mim em [about.me/luizfpq](https://about.me/luizfpq), no [LinkedIn](https://www.linkedin.com/in/luizfpq) e no [Lattes](http://lattes.cnpq.br/9792744774798219).
+Longe do teclado, gosto de poesia, cinema e motocicletas. Mais sobre mim no [LinkedIn](https://www.linkedin.com/in/luizfpq) e no [Lattes](http://lattes.cnpq.br/9792744774798219).
