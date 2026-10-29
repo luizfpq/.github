@@ -2,7 +2,7 @@
 
 Trabalho com tecnologia da informação desde 2005. Hoje coordeno as contratações estratégicas de TI no IFSP, onde também dou aula como professor substituto, e sou docente no programa Hackers do Bem. Faço mestrado em Ciência da Computação na UFMS, na área de inteligência artificial.
 
-Aprendi boa parte do que sei fuçando por conta própria, e continuo aprendendo. Minhas ferramentas seguem a mesma linha: não muito sofisticadas, mas funcionais. A maioria dos repositórios daqui começou com uma tarefa que eu repetia demais, uma configuração que eu não queria refazer na mão ou um material de aula que podia servir para outras turmas. Muita coisa nasce no meu homelab, um cluster Proxmox/Debian onde testo redes, containers e serviços auto-hospedados.
+Tenho formação em Sistemas de Informação, Gestão da Tecnologia da Informação e Educação Especial, além de especialização em Gestão de Riscos e Cibersegurança. Junto com a formação, sempre aprendi muito testando coisas por conta própria, e continuo aprendendo. Minhas ferramentas vêm desse lado mais prático: não muito sofisticadas, mas funcionais. A maioria dos repositórios daqui começou com uma tarefa que eu repetia demais, uma configuração que eu não queria refazer na mão ou um material de aula que podia servir para outras turmas. Muita coisa nasce no meu homelab, um cluster Proxmox/Debian onde testo redes, containers e serviços auto-hospedados.
 
 Escrevo quase tudo em Python, com shell script para o que é de sistema e LaTeX para slides e documentos.
 
